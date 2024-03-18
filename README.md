@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=17,17,17,17,24&text=MinjunKang&fontColor=043927)
 
 <!--
 **kangjjun/kangjjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
