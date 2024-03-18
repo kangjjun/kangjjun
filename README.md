@@ -2,9 +2,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangjjun%2Fkangjjun&count_bg=%23B5CFA2&title_bg=%239A9696&icon=ello.svg&icon_color=%23E7E7E7&title=Wellcome&edge_flat=false)](https://hits.seeyoufarm.com)
    
-* * *vvvvv
+* * *
 
-![header]**[Send Mail]**
+**[Send Mail]**
 &#160;[![Naver Badge](https://img.shields.io/badge/NAVER-28965A?&style=Plastic&logo=naver&logoColor=white)](mailto:dubu_02@naver.com)
 
                                                            [Tech Stacks]
