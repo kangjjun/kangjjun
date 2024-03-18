@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangjjun%2Fkangjjun&count_bg=%23B5CFA2&title_bg=%239A9696&icon=ello.svg&icon_color=%23E7E7E7&title=Wellcome&edge_flat=false)](https://github.com/kangjjun)
 
 [![C# Badge](https://img.shields.io/badge/C%23-000000?style=plastic&logo=Csharp&logoColor=white)](mailto:dubu_02@naver.com)
-
+                                                                  tech
 @charset "utf-8";
 @import url('https://cdn.jsdelivr.net/font-iropke-batang/1.2/font-iropke-batang.css');
 
