@@ -5,7 +5,7 @@
 * * *
 
 **[Send Mail]**   
-** **[![Naver Badge](https://img.shields.io/badge/NAVER-28965A?&style=Plastic&logo=naver&logoColor=white)](mailto:dubu_02@naver.com)
+[![Naver Badge](https://img.shields.io/badge/NAVER-28965A?&style=Plastic&logo=naver&logoColor=white)](mailto:dubu_02@naver.com)
 
                                                            [Tech Stacks]
 ![C# Badge](https://img.shields.io/badge/C%23-000000?style=plastic&logo=Csharp&logoColor=white)
