@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=C5E6A8&customColorList=26&text=MinjunKang&fontColor=ffffff&animation=fadeIn&height=180&stroke=C5E6A8)
+![header](https://capsule-render.vercel.app/api?type=Slice&&color=0:FFFACD,100:C5E6A8&customColorList=26&text=MinjunKang&fontColor=ffffff&animation=fadeIn&height=180&stroke=D5E6A8)
 
 <!--
 **kangjjun/kangjjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
