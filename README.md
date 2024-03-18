@@ -4,6 +4,7 @@
 
 [![C# Badge](https://img.shields.io/badge/C%23-000000?style=plastic&logo=Csharp&logoColor=white)](mailto:dubu_02@naver.com)
 
+@charset "utf-8";
 @import url('https://cdn.jsdelivr.net/font-iropke-batang/1.2/font-iropke-batang.css');
 
 @font-face{
