@@ -10,9 +10,8 @@
 
 </div>
 
+***
 <div Align=center>   
-   
-   </br>
    
    ### ✉**SEND MAIL**✉
    &#160;[![Naver Badge](https://img.shields.io/badge/NAVER-28965A?&style=for-the-badge&logo=naver&logoColor=white)](mailto:dubu_02@naver.com)
