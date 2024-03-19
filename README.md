@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&&color=20:FFFACD,100:C5E6A8&customColorList=26&text=Minjun%20Kang&fontColor=757575&desc=Game%20Developer&descSize=21&descAlignY=36&fontAlignY=62&descColor=black&animation=fadeIn&height=180)
 
+
 ***
 <div Align=Right>   
 
@@ -18,17 +19,24 @@
     &#160;![C# Badge](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=Csharp&logoColor=white)
     &#160;![Unity Badge ](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=ashgray)
     &#160;![Github Badge](https://img.shields.io/badge/GitHub-666A73?style=for-the-badge&logo=github&logoColor=white)
-
+    
    </br></br>
+   
+   ### **🔥Portfolio🔥**   
+   [![gitconnected Badge](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=gitconnected&logoColor=white)](http://kangjjun.github.io)
+   
+   </br>
    
    ### **🌎Send Mail🌎**
    [![Naver Badge](https://img.shields.io/badge/NAVER-28965A?&style=for-the-badge&logo=naver&logoColor=white)](mailto:dubu_02@naver.com)
-
-   </br></br>
    
+   </br></br>
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangjjun&show_icons=true&theme=ambient_gradient)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangjjun&show_icons=true&theme=ambient_gradient)
 </div>
+
+
+
 <!--
 **kangjjun/kangjjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
