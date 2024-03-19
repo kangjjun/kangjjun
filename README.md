@@ -5,11 +5,11 @@
 
    
    
-   #### ✉**SEND MAIL**✉
+   ### ✉**SEND MAIL**✉
 
    &#160;[![Naver Badge](https://img.shields.io/badge/NAVER-28965A?&style=for-the-badge&logo=naver&logoColor=white)](mailto:dubu_02@naver.com)
    
-   #### ⚙**Tech Stacks**⚙   
+   ### ⚙**Tech Stacks**⚙   
       
    ![C Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white) 
    ![C# Badge](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=Csharp&logoColor=white) 
