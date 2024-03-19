@@ -25,7 +25,7 @@
    ### **🔥Portfolio🔥**   
    
    
-   <a href="http://kangjjun.github.io" target="_blank">![gitconnected Badge](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=gitconnected&logoColor=white)</a>
+   <a href="http://kangjjun.github.io" target="_blank">![gitconnected Badge](https://img.shields.io/badge/Portfolio-710193?style=for-the-badge&logo=gitconnected&logoColor=white)</a>
   
    </br>
    
