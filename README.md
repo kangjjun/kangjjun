@@ -12,18 +12,20 @@
 
 <div Align=center>   
    
-   ### ✉**SEND MAIL**✉
-   &#160;[![Naver Badge](https://img.shields.io/badge/NAVER-28965A?&style=for-the-badge&logo=naver&logoColor=white)](mailto:dubu_02@naver.com)
+   
+   ### ⚙**Tech Stacks**⚙   
+   ![C Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white)
+    &#160;![C# Badge](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=Csharp&logoColor=white)
+    &#160;![Unity Badge ](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=ashgray)
+    &#160;![Github Badge](https://img.shields.io/badge/GitHub-666A73?style=for-the-badge&logo=github&logoColor=white)
 
    </br></br>
    
-   ### ⚙**Tech Stacks**⚙   
-   ![C Badge](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=white) 
-   ![C# Badge](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=Csharp&logoColor=white) 
-   ![Unity Badge ](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=ashgray) 
-   ![Github Badge](https://img.shields.io/badge/GitHub-666A73?style=for-the-badge&logo=github&logoColor=white)
+   ### **🌎Send Mail🌎**
+   [![Naver Badge](https://img.shields.io/badge/NAVER-28965A?&style=for-the-badge&logo=naver&logoColor=white)](mailto:dubu_02@naver.com)
 
    </br></br>
+   
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangjjun&show_icons=true&theme=ambient_gradient)
 </div>
