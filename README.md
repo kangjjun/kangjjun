@@ -3,7 +3,7 @@
    
 * * *
 
-**[Send Mail]**   
+✉Send Mail✉   
 &#160;[![Naver Badge](https://img.shields.io/badge/NAVER-28965A?&style=Plastic&logo=naver&logoColor=white)](mailto:dubu_02@naver.com)
 
     
@@ -11,7 +11,10 @@
 |"Tech Stacks"|
 
                                                     Game Client Programmer
-![C Badge](https://img.shields.io/badge/C-blue?style=plastic&logo=C&logoColor=white)    ![C# Badge](https://img.shields.io/badge/C%23-purple?style=plastic&logo=Csharp&logoColor=white) ![Unity Badge ](https://img.shields.io/badge/Unity-black?style=plastic&logo=Unity&logoColor=ashgray) ![Github Badge](https://img.shields.io/badge/GitHub-666A73?style=plastic&logo=github&logoColor=white)
+![C Badge](https://img.shields.io/badge/C-blue?style=plastic&logo=C&logoColor=white) 
+![C# Badge](https://img.shields.io/badge/C%23-purple?style=plastic&logo=Csharp&logoColor=white) 
+![Unity Badge ](https://img.shields.io/badge/Unity-black?style=plastic&logo=Unity&logoColor=ashgray) 
+![Github Badge](https://img.shields.io/badge/GitHub-666A73?style=plastic&logo=github&logoColor=white)
 
 
 
