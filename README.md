@@ -23,11 +23,8 @@
    </br></br>
    
    ### **🔥Portfolio🔥**   
-   [![gitconnected Badge](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=gitconnected&logoColor=white)](<http://kangjjun.github.io){: target="_blank"}>)
-
-
-
-   
+   [![gitconnected Badge](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=gitconnected&logoColor=white)](http://kangjjun.github.io/"target="_blank")
+  
    </br>
    
    ### **🌎Send Mail🌎**
