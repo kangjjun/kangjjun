@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&&color=gradient&customColorList=27&text=Minjun%20Kang&fontColor=121319&desc=Game%20Developer&descSize=21&descAlignY=36&fontAlignY=62&descColor=black&animation=fadeIn&height=180)
+![header](https://capsule-render.vercel.app/api?type=Rounded&&color=gradient&customColorList=23&text=Minjun%20Kang&fontColor=DCDCDC&desc=Game%20Developer&descSize=21&descAlignY=36&fontAlignY=62&descColor=black&animation=fadeIn&height=180)
 
 
 ***
