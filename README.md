@@ -31,7 +31,7 @@
    
    ### **🌎Send Mail🌎**
    [![Naver Badge](https://img.shields.io/badge/NAVER-28965A?&style=for-the-badge&logo=naver&logoColor=white)](mailto:dubu_02@naver.com)
-   ###### (>>메일 앱 연동 후 사용가능<<)
+   ###### >>메일 앱 연동 후 사용가능<<
    
    </br></br>
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangjjun&show_icons=true&theme=ambient_gradient)
