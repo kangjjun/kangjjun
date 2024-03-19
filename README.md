@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&&color=20:FFFACD,100:C5E6A8&customColorList=26&text=Minjun%20Kang&fontColor=757575&desc=Game%20Developer&descSize=21&descAlignY=36&fontAlignY=62&descColor=black&animation=fadeIn&height=180)
 
+***
+
 <div Align=Right>   
 
 </br></br>
@@ -10,7 +12,7 @@
 
 </div>
 
-***
+
 <div Align=center>   
    
    ### ✉**SEND MAIL**✉
