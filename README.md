@@ -34,7 +34,7 @@
    ###### >>메일 앱 연동 후 사용가능<<
    
    </br></br>
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangjjun&show_icons=true&bg_color=DEG,71B280,194E5E)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangjjun&title_color=ffffff&text_color=000000&show_icons=true&bg_color=DEG,71B280,194E5E)
    
 
 </div>
