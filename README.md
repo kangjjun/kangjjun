@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=23&text=Minjun%20Kang&fontColor=DCDCDC&desc=Game%20Developer&descSize=21&descAlignY=44&fontAlignY=62&descColor=black&animation=fadeIn&height=250)
 
-● **PERSEVERANCE** &nbsp; ● **TRUST** &nbsp; ● **RESPECT** &nbsp; ● **CURIOSITY** 
+- **PERSEVERANCE** 
+- **TRUST** 
+- **RESPECT** 
+- **CURIOSITY** 
 ***
 <div Align=Right>   
 
